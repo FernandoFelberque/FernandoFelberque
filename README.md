@@ -10,7 +10,7 @@ Frameworks encontrados e utilizados em projetos nesse perfil: Cypress, Appium, W
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandoFelberque&repo=Cartorioebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandoFelberque&repo=TCC-EBAC-QE_API-UI)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
